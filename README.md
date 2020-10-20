@@ -1,7 +1,5 @@
 ### Here is What I'm Working On!
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working in nothing, just learning
 - 🌱 I’m currently learning the MERN Stack
 - 👯 I’m looking to collaborate on ReactJs
