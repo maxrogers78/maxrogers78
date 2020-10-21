@@ -1,10 +1,10 @@
 ### Here is What I'm Working On!
 
-- 🔭 I’m currently working in nothing, just learning
-- 🌱 I’m currently learning the MERN Stack
-- 👯 I’m looking to collaborate on ReactJs
-- 🤔 I’m looking for help with connect frontend with backend
-- 💬 Ask me about anything I guess!
+- 🔭 I am a passonate Frontend developer
+- 🌱 Learing everyday, currently learning to master ReactJs with Redux
+- 💬 Sometime I post on my [Twitter](https://twitter.com/MaxRogers78)
 - 📫 How to reach me: [Personal Portfolio](https://maxrogers78.github.io/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: English is not my native language
+
+<img src="https://github-readme-stats.vercel.app/api?username=maxrogers78&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
