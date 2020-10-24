@@ -1,6 +1,6 @@
-### Here is What I'm Working On!
+### Here is what I'm working on!
 
-- 🔭 I am a passonate Frontend developer
+- 🔭 I am a passonate jr web developer with the goal to be a fullstack web developer
 - 🌱 Learing everyday, currently learning to master ReactJs with Redux
 - 💬 Sometime I post on my [Twitter](https://twitter.com/MaxRogers78)
 - 📫 How to reach me: [Personal Portfolio](https://maxrogers78.github.io/)
