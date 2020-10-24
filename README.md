@@ -7,6 +7,18 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: English is not my native language
 
+## My skills
+
+- HTML
+- CSS
+- SASS
+- Bootstrap / Bootswatch
+- Javascript
+- ReactJs - Redux
+- NodeJs - Express
+- MongoDB
+- git - github
+
 [<img src="https://img.shields.io/badge/Personal-portfolio-blue">](https://maxrogers78.github.io/)
 [<img src="https://img.shields.io/twitter/follow/MaxRogers78?color=blue&label=Follow%20me%21&logo=twitter&style=plastic">](https://twitter.com/intent/follow?screen_name=MaxRogers78)
 
