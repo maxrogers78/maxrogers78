@@ -2,7 +2,7 @@
 
 - 🔭 I am a passonate jr web developer with the goal to be a fullstack web developer
 - 🌱 Learing everyday, currently learning to master the MERN Stack
-- 💬 Sometime I post on my [Twitter](https://twitter.com/MaxRogers78)
+- 💬 Sometimes I post on my [Twitter](https://twitter.com/MaxRogers78)
 - 📫 How to reach me: [Personal Portfolio](https://maxrogers78.github.io/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: English is not my native language
