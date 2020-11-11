@@ -5,6 +5,7 @@
 - 💬 Sometimes I post on my [Twitter](https://twitter.com/MaxRogers78)
 - 📫 How to reach me: [Personal Portfolio](https://maxrogers78.github.io/)
 - 😄 Pronouns: He/Him
+- ❤ In love with React.js
 - ⚡ Fun fact: English is not my native language
 
 ## My skills
