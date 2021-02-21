@@ -1,7 +1,7 @@
 ### Here is what I'm working on!
 
 - 🔭 I am a passonate jr web developer with the goal to be a fullstack web developer
-- 🌱 Learing everyday, currently learning to master the MERN Stack
+- 🌱 Learing everyday, currently working as a freelancer
 - 💬 Sometimes I post on my [Twitter](https://twitter.com/MaxRogers78)
 - 📫 How to reach me: [Personal Portfolio](https://maxrogers78.github.io/)
 - 😄 Pronouns: He/Him
