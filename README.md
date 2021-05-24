@@ -13,7 +13,9 @@
 - SASS
 - Bootstrap / Bootswatch
 - Javascript
-- ReactJs - Redux
+- Typescript
+- ReactJs
+- React Native (Expo)
 - NodeJs - Express
 - MongoDB
 - git - github
