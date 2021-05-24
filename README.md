@@ -1,10 +1,10 @@
 ### Here is what I'm working on!
 
 - 🔭 I am a passonate jr web developer with the goal to be a web developer with expertice in React.js
-- 🌱 Learing everyday, currently working as a freelancer on [Soflanas](https://www.soflanas.cl/)
+- 🌱 Learing everyday, currently working as a freelancer on [Soflanas](https://www.soflanas.cl/) and learning React Native in parallel
 - 📫 How to reach me: [Personal Portfolio](https://maxrogers78.github.io/)
 - 😄 Pronouns: He/Him
-- ❤ In love with React.js
+- ❤ In love with React Native
 
 ## My skills
 
