@@ -1,10 +1,10 @@
 ### Here is what I'm working on!
 
-- 🔭 I am a passonate jr developer with the goal to be a web & mobile developer with expertice in React.js
-- 🌱 Learing everyday, currently working as a freelancer on [Soflanas](https://www.soflanas.cl/) and learning React Native in parallel
-- 📫 How to reach me: [Personal Portfolio](https://maxrogers78.github.io/)
+- 🔭 I am a passonate jr developer with the goal to be a web developer with expertice in React.js
+- 🌱 Learing everyday, currently working as a freelancer on [Soflanas](https://www.soflanas.cl/) and as a Web Developer on Redbus Urbano
+- 📫 How to reach me: [Personal Portfolio](https://maxrogersdev.com/)
 - 😄 Pronouns: He/Him
-- ❤ In love with React Native
+- ❤ In love with Next.js
 
 ## My skills
 
@@ -15,11 +15,13 @@
 - Javascript
 - Typescript
 - ReactJs
+- NextJs
 - React Native (Expo)
 - NodeJs - Express
 - MongoDB
 - git - github
 - Firebase
+- Figma / Adobe XD
 
 [<img src="https://img.shields.io/badge/Personal-portfolio-blue">](https://maxrogers78.github.io/)
 [<img src="https://img.shields.io/twitter/follow/MaxRogers78?color=blue&label=Follow%20me%21&logo=twitter&style=plastic">](https://twitter.com/intent/follow?screen_name=MaxRogers78)
