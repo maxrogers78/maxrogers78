@@ -11,11 +11,12 @@
 - HTML
 - CSS
 - SASS
-- Bootstrap / Bootswatch
 - Javascript
 - Typescript
 - ReactJs
 - NextJs
+- TailwindCSS
+- Bootstrap
 - React Native (Expo)
 - NodeJs - Express
 - MongoDB
