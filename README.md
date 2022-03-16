@@ -1,27 +1,23 @@
 ### Here is what I'm working on!
 
 - 🔭 I am a passonate jr developer with the goal to be a web developer with expertice in React.js
-- 🌱 Learing everyday, currently working as a freelancer on [Soflanas](https://www.soflanas.cl/) and as a Web Developer on Redbus Urbano
+- 🌱 Learing everyday, currently working as a freelancer on [Soflanas](https://www.soflanas.cl/) and I'm in the final year of Computer Science Engineering
 - 📫 How to reach me: [Personal Portfolio](https://maxrogersdev.com/)
 - 😄 Pronouns: He/Him
 - ❤ In love with Next.js
 
 ## My skills
 
-- HTML
-- CSS
-- SASS
+- HTML & CSS/SCSS
 - Javascript
 - Typescript
 - ReactJs
 - NextJs
 - TailwindCSS
-- Bootstrap
-- React Native (Expo)
 - NodeJs - Express
 - MongoDB
 - git - github
-- Firebase
+- Firebase - GraphCMS - Sanity.io
 - Figma / Adobe XD
 
 [<img src="https://img.shields.io/badge/Personal-portfolio-blue">](https://maxrogers78.github.io/)
