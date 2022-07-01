@@ -1,9 +1,8 @@
 ### Here is what I'm working on!
 
 - 🔭 I am a passonate web developer living in Chile willing to relocate to Canada
-- 🌱 Learing everyday, currently working as a freelancer on [Soflanas](https://www.soflanas.cl/) and I'm in the final year of Computer Science Engineering
+- 🌱 Learing everyday, currently working as a freelancer in 3 different projects and I'm in the final year of Computer Science Engineering
 - 📫 How to reach me: [Personal Portfolio](https://maxrogersdev.com/)
-- 😄 Pronouns: He/Him
 - ❤ In love with MERN Stack
 
 ## My skills
