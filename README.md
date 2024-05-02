@@ -1,19 +1,19 @@
 ### Here is what I'm working on!
 
-- 🔭 I am a passonate web developer living in Chile willing to relocate to Canada
-- 🌱 Learing everyday, currently working as a freelancer in 3 different projects and I'm in the final year of Computer Science Engineering
+- 🔭 I am a passonate web developer living in Chile
+- 🌱 Learing everyday
 - 📫 How to reach me: [Personal Portfolio](https://maxrogers.dev/)
-- ❤ In love with MERN Stack
+- ❤ In love with Next.js, Typescript and Tailwind
 
 ## My skills
 
 - HTML & CSS/SCSS
 - Javascript / Typescript
 - ReactJS / NextJS
+- Astro
 - TailwindCSS
 - NodeJS & Express
 - MongoDB
-- MERN Stack
 - git & github
 - Firebase - HeadlessCMS
 - Figma / Adobe XD
