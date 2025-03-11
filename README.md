@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Max</h1>
 <h3 align="center">A passionate fullstack web developer from Chile</h3>
 
-- 🔭 I’m currently working on [kliks](https://kliks.cl/)
+- 🔭 I’m currently working on ShiftPlan
 
 - 👨‍💻 All of my projects are available at [https://maxrogers.dev/](https://maxrogers.dev/)
 
